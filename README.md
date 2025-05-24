@@ -23,12 +23,9 @@ This project focuses on classifying IMDb movie reviews as **positive or negative
 
 ## 🧾 Dataset
 
-- **Source:** Kaggle – IMDb Reviews Dataset
+- **Source:** Kaggle – IMDb Reviews Dataset (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download)
 - **Attributes:**
   - `review_text`: User-written content
-  - `movie_title`: Title of the film
-  - `user_rating`: Numerical score (1–10)
-  - `review_date`: Timestamp of submission
 - **Target Variable:** `sentiment` (positive / negative)
 
 ---
